@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"github.com/DigantaChauduri06/week2-GL1-CipherSchools/database"
-	"github.com/DigantaChauduri06/week2-GL1-CipherSchools/handler"
+	"github.com/Subhesh-kumar/week2-GL1-CipherSchools/database"
+	"github.com/Subhesh-kumar/week2-GL1-CipherSchools/handler"
 	"github.com/gin-gonic/gin"
 )
 
