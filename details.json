@@ -1,0 +1,16 @@
+{
+  "name": "diganta",
+  "married": false,
+  "age": 20,
+  "address": [
+    {
+      "street": 192,
+      "city": "Kolkata"
+    },
+    {
+      "street": 125,
+      "city": "Kolkata"
+    }
+  ],
+  "marks": [95, 45, 68, 15, 64, 78]
+}
